@@ -1,0 +1,2 @@
+SpringDemo2WithAnnotationConfiguration
+This folder contains rendereer and provider example with Annotation Configuration
